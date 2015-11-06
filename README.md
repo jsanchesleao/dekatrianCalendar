@@ -1,3 +1,3 @@
 #Dekatrian Calendar App
 
-Still in development. Will be out soon.
+App to convert dates between Gregorian and Dekatrian calendars. Will be out soon.
