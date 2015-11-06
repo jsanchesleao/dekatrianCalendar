@@ -1,0 +1,24 @@
+{
+  "currentDate": {
+    "year": 2015,
+    "month": 11,
+    "day": 4
+  },
+  "selectedDate": {
+    "year": 2015,
+    "month": 11,
+    "day": 4
+  },
+  "calendars": {
+    "gregorian": {
+      "year": 2015,
+      "month": 11,
+      "display": true
+    },
+    "dekatrian": {
+      "year": 2015,
+      "month": 12,
+      "display": true
+    }
+  }
+}
